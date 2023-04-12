@@ -1,0 +1,10 @@
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\bin\Debug\pract13.2.exe.config
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\bin\Debug\pract13.2.exe
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\bin\Debug\pract13.2.pdb
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13.2.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13._2.Form1.resources
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13._2.Properties.Resources.resources
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13.2.csproj.GenerateResource.cache
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13.2.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13.2.exe
+C:\Users\305-11\Desktop\shvets\pract13.2\pract13.2\obj\Debug\pract13.2.pdb
